@@ -1,0 +1,11 @@
+[example.ClimbStairsTest.climbStairsTestForOne, example.ClimbStairsTest.climbStairsTestForThree, example.ClimbStairsTest.climbStairsTestForFive, example.ClimbStairsTest.climbStairsTestForZero, example.ClimbStairsTest.ClimbStairsTestForTwo]
+src/main/java/example/ClimbingStairs.java
+00014,o,x,x,o,o
+00015,o,-,-,o,-
+00017,-,x,x,-,o
+00018,-,x,x,-,o
+00022,-,x,x,-,o
+00023,-,x,x,-,o
+00024,-,x,x,-,o
+00026,-,x,x,-,o
+00029,-,x,x,-,o

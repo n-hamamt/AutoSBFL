@@ -1,0 +1,12 @@
+[example.IndexOfRightMostSetBitTest.testIndexOfRightMostSetBit1, example.IndexOfRightMostSetBitTest.testIndexOfRightMostSetBit3, example.IndexOfRightMostSetBitTest.testIndexOfRightMostSetBit2]
+src/main/java/example/IndexOfRightMostSetBit.java
+00012,o,x,o
+00013,-,-,o
+00017,o,x,-
+00018,-,x,-
+00019,-,x,-
+00022,o,x,-
+00023,o,x,-
+00024,o,x,-
+00025,o,x,-
+00028,o,-,-

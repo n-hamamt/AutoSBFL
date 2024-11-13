@@ -1,0 +1,13 @@
+FileName,StartLine,EndLine,susValue,ef,nf,ep,np
+src/main/java/example/Tribonacci.java,18,18,0.7071067811865476,3,0,3,0,
+src/main/java/example/Tribonacci.java,19,19,0.7745966692414834,3,0,2,1,
+src/main/java/example/Tribonacci.java,21,21,0.0,0,3,1,2,
+src/main/java/example/Tribonacci.java,22,22,0.0,0,3,1,2,
+src/main/java/example/Tribonacci.java,23,23,0.0,0,3,1,2,
+src/main/java/example/Tribonacci.java,25,25,0.0,0,3,1,2,
+src/main/java/example/Tribonacci.java,26,26,NaN,0,3,0,3,
+src/main/java/example/Tribonacci.java,27,27,NaN,0,3,0,3,
+src/main/java/example/Tribonacci.java,28,28,NaN,0,3,0,3,
+src/main/java/example/Tribonacci.java,29,29,NaN,0,3,0,3,
+src/main/java/example/Tribonacci.java,25,30,0.0,0,3,1,2,
+src/main/java/example/Tribonacci.java,32,32,0.0,0,3,1,2,

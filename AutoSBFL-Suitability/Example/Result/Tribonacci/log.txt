@@ -1,0 +1,192 @@
+MutantID: 1
+Fitness: 0.0
+Failed Test Count: 6 / 6
+	Filed Test: example.TribonacciTest.testKnownValues0
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues5
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues2
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues1
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues4
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues3
+		Failed Target: example.Tribonacci
+
+MutantID: 2
+Fitness: 0.5
+Failed Test Count: 3 / 6
+	Filed Test: example.TribonacciTest.testKnownValues5
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues4
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues3
+		Failed Target: example.Tribonacci
+
+MutantID: 3
+Fitness: 0.5
+Failed Test Count: 3 / 6
+	Filed Test: example.TribonacciTest.testKnownValues5
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues4
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues3
+		Failed Target: example.Tribonacci
+
+MutantID: 4
+Fitness: 0.5
+Failed Test Count: 3 / 6
+	Filed Test: example.TribonacciTest.testKnownValues5
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues4
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues3
+		Failed Target: example.Tribonacci
+
+MutantID: 5
+Fitness: 0.5
+Failed Test Count: 3 / 6
+	Filed Test: example.TribonacciTest.testKnownValues5
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues4
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues3
+		Failed Target: example.Tribonacci
+
+MutantID: 6
+Fitness: 1.0
+Failed Test Count: 0 / 6
+
+MutantID: 7
+Fitness: 1.0
+Failed Test Count: 0 / 6
+
+MutantID: 8
+Fitness: 0.5
+Failed Test Count: 3 / 6
+	Filed Test: example.TribonacciTest.testKnownValues5
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues4
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues3
+		Failed Target: example.Tribonacci
+
+MutantID: 9
+Fitness: 0.5
+Failed Test Count: 3 / 6
+	Filed Test: example.TribonacciTest.testKnownValues5
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues4
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues3
+		Failed Target: example.Tribonacci
+
+MutantID: 10
+Fitness: 0.6666666666666666
+Failed Test Count: 2 / 6
+	Filed Test: example.TribonacciTest.testKnownValues0
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues1
+		Failed Target: example.Tribonacci
+
+MutantID: 11
+Fitness: 1.0
+Failed Test Count: 0 / 6
+
+MutantID: 12
+Fitness: 0.8333333333333334
+Failed Test Count: 1 / 6
+	Filed Test: example.TribonacciTest.testKnownValues3
+		Failed Target: example.Tribonacci
+
+MutantID: 13
+Fitness: 0.5
+Failed Test Count: 3 / 6
+	Filed Test: example.TribonacciTest.testKnownValues5
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues4
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues3
+		Failed Target: example.Tribonacci
+
+MutantID: 14
+Fitness: 0.5
+Failed Test Count: 3 / 6
+	Filed Test: example.TribonacciTest.testKnownValues5
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues4
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues3
+		Failed Target: example.Tribonacci
+
+MutantID: 15
+Fitness: 0.5
+Failed Test Count: 3 / 6
+	Filed Test: example.TribonacciTest.testKnownValues5
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues4
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues3
+		Failed Target: example.Tribonacci
+
+MutantID: 16
+Fitness: 0.5
+Failed Test Count: 3 / 6
+	Filed Test: example.TribonacciTest.testKnownValues5
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues4
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues3
+		Failed Target: example.Tribonacci
+
+MutantID: 17
+Fitness: 0.5
+Failed Test Count: 3 / 6
+	Filed Test: example.TribonacciTest.testKnownValues5
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues4
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues3
+		Failed Target: example.Tribonacci
+
+MutantID: 18
+Fitness: 0.6666666666666666
+Failed Test Count: 2 / 6
+	Filed Test: example.TribonacciTest.testKnownValues5
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues4
+		Failed Target: example.Tribonacci
+
+MutantID: 19
+Fitness: 0.6666666666666666
+Failed Test Count: 2 / 6
+	Filed Test: example.TribonacciTest.testKnownValues5
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues4
+		Failed Target: example.Tribonacci
+
+MutantID: 20
+Fitness: 0.5
+Failed Test Count: 3 / 6
+	Filed Test: example.TribonacciTest.testKnownValues5
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues4
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues3
+		Failed Target: example.Tribonacci
+
+MutantID: 21
+Fitness: 0.5
+Failed Test Count: 3 / 6
+	Filed Test: example.TribonacciTest.testKnownValues5
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues4
+		Failed Target: example.Tribonacci
+	Filed Test: example.TribonacciTest.testKnownValues3
+		Failed Target: example.Tribonacci
+
+MutantID: 22
+Fitness: 1.0
+Failed Test Count: 0 / 6
+

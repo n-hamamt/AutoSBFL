@@ -1,0 +1,314 @@
+MutantID: 1
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 2
+Fitness: 0.5
+Failed Test Count: 2 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 3
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 4
+Fitness: 0.25
+Failed Test Count: 3 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+
+MutantID: 5
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 6
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 7
+Fitness: 0.5
+Failed Test Count: 2 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 8
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 9
+Fitness: 0.25
+Failed Test Count: 3 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+
+MutantID: 10
+Fitness: 0.25
+Failed Test Count: 3 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+
+MutantID: 11
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 12
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 13
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 14
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 15
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 16
+Fitness: 0.5
+Failed Test Count: 2 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 17
+Fitness: 0.75
+Failed Test Count: 1 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+
+MutantID: 18
+Fitness: 0.5
+Failed Test Count: 2 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 19
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 20
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 21
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 22
+Fitness: 0.25
+Failed Test Count: 3 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+
+MutantID: 23
+Fitness: 0.25
+Failed Test Count: 3 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+
+MutantID: 24
+Fitness: 0.25
+Failed Test Count: 3 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+
+MutantID: 25
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 26
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 27
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 28
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+
+MutantID: 29
+Fitness: 0.0
+Failed Test Count: 4 / 4
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary03
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary04
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary01
+		Failed Target: example.OctalToBinary
+	Filed Test: example.OctalToBinaryTest.testConvertOctalToBinary02
+		Failed Target: example.OctalToBinary
+

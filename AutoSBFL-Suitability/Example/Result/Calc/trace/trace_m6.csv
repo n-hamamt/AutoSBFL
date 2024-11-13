@@ -1,0 +1,17 @@
+[example.CalcTest.diff01, example.CalcTest.quot01, example.CalcTest.quotException, example.CalcTest.diff02, example.CalcTest.quot02, example.CalcTest.diff03, example.CalcTest.quot03, example.CalcTest.sum03, example.CalcTest.sum02, example.CalcTest.sum01, example.CalcTest.sum05, example.CalcTest.sum04, example.CalcTest.prod01, example.CalcTest.prod03, example.CalcTest.prod02]
+src/main/java/example/Calc.java
+00004,o,o,x,o,o,o,o,x,x,o,x,x,o,o,o
+00005,o,o,x,o,o,o,o,x,x,o,x,x,o,o,o
+00006,-,-,-,-,-,-,-,x,x,o,x,x,-,-,-
+00008,o,o,x,o,o,o,o,-,-,-,-,-,o,o,o
+00009,o,-,-,o,-,o,-,-,-,-,-,-,-,-,-
+00011,-,o,x,-,o,-,o,-,-,-,-,-,o,o,o
+00012,-,-,-,-,-,-,-,-,-,-,-,-,o,o,o
+00014,-,o,x,-,o,-,o,-,-,-,-,-,-,-,-
+00015,-,o,-,-,o,-,o,-,-,-,-,-,-,-,-
+00017,o,o,-,o,o,o,o,x,x,o,x,x,o,o,o
+00024,o,-,-,o,-,o,-,-,-,-,-,-,-,-,-
+00027,-,-,-,-,-,-,-,-,-,-,-,-,o,o,o
+00030,-,o,x,-,o,-,o,-,-,-,-,-,-,-,-
+00031,-,-,x,-,-,-,-,-,-,-,-,-,-,-,-
+00033,-,o,-,-,o,-,o,-,-,-,-,-,-,-,-

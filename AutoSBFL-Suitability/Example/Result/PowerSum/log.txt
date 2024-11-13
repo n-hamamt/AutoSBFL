@@ -1,0 +1,136 @@
+MutantID: 1
+Fitness: 0.0
+Failed Test Count: 3 / 3
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerThree
+		Failed Target: example.PowerSum
+	Filed Test: example.PowerSumTest.testNumberZeroAndPowerZero
+		Failed Target: example.PowerSum
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerTwo
+		Failed Target: example.PowerSum
+
+MutantID: 2
+Fitness: 0.3333333333333333
+Failed Test Count: 2 / 3
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerThree
+		Failed Target: example.PowerSum
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerTwo
+		Failed Target: example.PowerSum
+
+MutantID: 3
+Fitness: 0.6666666666666666
+Failed Test Count: 1 / 3
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerTwo
+		Failed Target: example.PowerSum
+
+MutantID: 4
+Fitness: 0.0
+Failed Test Count: 3 / 3
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerThree
+		Failed Target: example.PowerSum
+	Filed Test: example.PowerSumTest.testNumberZeroAndPowerZero
+		Failed Target: example.PowerSum
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerTwo
+		Failed Target: example.PowerSum
+
+MutantID: 5
+Fitness: 0.6666666666666666
+Failed Test Count: 1 / 3
+	Filed Test: example.PowerSumTest.testNumberZeroAndPowerZero
+		Failed Target: example.PowerSum
+
+MutantID: 6
+Fitness: 0.3333333333333333
+Failed Test Count: 2 / 3
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerThree
+		Failed Target: example.PowerSum
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerTwo
+		Failed Target: example.PowerSum
+
+MutantID: 7
+Fitness: 0.3333333333333333
+Failed Test Count: 2 / 3
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerThree
+		Failed Target: example.PowerSum
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerTwo
+		Failed Target: example.PowerSum
+
+MutantID: 8
+Fitness: 0.3333333333333333
+Failed Test Count: 2 / 3
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerThree
+		Failed Target: example.PowerSum
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerTwo
+		Failed Target: example.PowerSum
+
+MutantID: 9
+Fitness: 1.0
+Failed Test Count: 0 / 3
+
+MutantID: 10
+Fitness: 0.3333333333333333
+Failed Test Count: 2 / 3
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerThree
+		Failed Target: example.PowerSum
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerTwo
+		Failed Target: example.PowerSum
+
+MutantID: 11
+Fitness: 0.3333333333333333
+Failed Test Count: 2 / 3
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerThree
+		Failed Target: example.PowerSum
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerTwo
+		Failed Target: example.PowerSum
+
+MutantID: 12
+Fitness: 0.3333333333333333
+Failed Test Count: 2 / 3
+	Filed Test: example.PowerSumTest.testNumberZeroAndPowerZero
+		Failed Target: example.PowerSum
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerTwo
+		Failed Target: example.PowerSum
+
+MutantID: 13
+Fitness: 0.3333333333333333
+Failed Test Count: 2 / 3
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerThree
+		Failed Target: example.PowerSum
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerTwo
+		Failed Target: example.PowerSum
+
+MutantID: 14
+Fitness: 0.6666666666666666
+Failed Test Count: 1 / 3
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerTwo
+		Failed Target: example.PowerSum
+
+MutantID: 15
+Fitness: 0.0
+Failed Test Count: 3 / 3
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerThree
+		Failed Target: example.PowerSum
+	Filed Test: example.PowerSumTest.testNumberZeroAndPowerZero
+		Failed Target: example.PowerSum
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerTwo
+		Failed Target: example.PowerSum
+
+MutantID: 16
+Fitness: 0.3333333333333333
+Failed Test Count: 2 / 3
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerThree
+		Failed Target: example.PowerSum
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerTwo
+		Failed Target: example.PowerSum
+
+MutantID: 17
+Fitness: 0.3333333333333333
+Failed Test Count: 2 / 3
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerThree
+		Failed Target: example.PowerSum
+	Filed Test: example.PowerSumTest.testNumberHundredAndPowerTwo
+		Failed Target: example.PowerSum
+
+MutantID: 18
+Fitness: 1.0
+Failed Test Count: 0 / 3
+

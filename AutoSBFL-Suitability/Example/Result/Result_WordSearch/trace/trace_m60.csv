@@ -1,0 +1,22 @@
+[example.WordSearchTest.test2, example.WordSearchTest.test3, example.WordSearchTest.test1]
+src/main/java/example/WordSearch.java
+00041,x,o,x
+00045,x,o,x
+00046,x,o,x
+00049,x,o,x
+00050,x,o,x
+00051,x,o,x
+00052,x,o,x
+00053,x,-,-
+00054,x,-,-
+00057,x,o,x
+00058,x,o,x
+00062,x,o,x
+00063,x,o,x
+00064,x,o,x
+00065,x,o,x
+00066,x,o,x
+00067,x,o,x
+00068,x,o,x
+00069,x,o,x
+00073,x,o,x

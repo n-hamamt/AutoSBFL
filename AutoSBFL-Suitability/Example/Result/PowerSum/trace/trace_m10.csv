@@ -1,0 +1,13 @@
+[example.PowerSumTest.testNumberHundredAndPowerThree, example.PowerSumTest.testNumberZeroAndPowerZero, example.PowerSumTest.testNumberHundredAndPowerTwo]
+src/main/java/example/PowerSum.java
+00015,-,o,-
+00016,-,o,-
+00022,x,o,x
+00023,-,o,x
+00024,-,o,x
+00027,x,-,x
+00028,x,-,x
+00029,-,-,x
+00032,-,-,x
+00034,x,-,x
+00043,x,-,x

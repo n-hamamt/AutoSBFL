@@ -1,0 +1,19 @@
+[example.OctalToBinaryTest.testConvertOctalToBinary03, example.OctalToBinaryTest.testConvertOctalToBinary04, example.OctalToBinaryTest.testConvertOctalToBinary01, example.OctalToBinaryTest.testConvertOctalToBinary02]
+src/main/java/example/OctalToBinary.java
+00013,x,x,x,x
+00014,x,x,x,x
+00016,x,x,x,x
+00017,x,x,x,x
+00018,x,x,x,x
+00020,x,x,x,x
+00022,x,x,x,x
+00023,x,x,x,x
+00026,-,-,-,x
+00030,x,x,x,x
+00031,x,x,x,x
+00033,x,x,x,x
+00034,x,x,x,x
+00035,x,x,x,x
+00037,x,x,x,x
+00038,x,x,x,x
+00041,x,x,x,x

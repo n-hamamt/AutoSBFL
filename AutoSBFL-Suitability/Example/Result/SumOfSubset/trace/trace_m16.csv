@@ -1,0 +1,9 @@
+[example.SumOfSubsetTest.basicCheck1, example.SumOfSubsetTest.basicCheck4, example.SumOfSubsetTest.basicCheck5, example.SumOfSubsetTest.basicCheck2, example.SumOfSubsetTest.basicCheck3]
+src/main/java/example/SumOfSubset.java
+00008,o,o,o,o,o
+00009,-,o,o,-,o
+00011,o,o,o,o,o
+00012,o,o,o,o,o
+00015,o,o,o,o,o
+00016,o,o,o,o,o
+00018,o,o,o,o,o

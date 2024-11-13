@@ -1,0 +1,8 @@
+[example.MColoringTest.testGraphColoring1, example.MColoringTest.testGraphColoring2, example.MColoringTest.testGraphColoring3]
+src/main/java/example/MColoring.java
+00023,o,x,x
+00024,o,x,x
+00025,o,x,x
+00030,o,x,x
+00032,o,x,x
+00073,o,x,x

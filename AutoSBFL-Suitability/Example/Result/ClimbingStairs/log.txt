@@ -1,0 +1,154 @@
+MutantID: 1
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForThree
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.climbStairsTestForFive
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.ClimbStairsTestForTwo
+		Failed Target: example.ClimbingStairs
+
+MutantID: 2
+Fitness: 0.6
+Failed Test Count: 2 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForThree
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.climbStairsTestForFive
+		Failed Target: example.ClimbingStairs
+
+MutantID: 3
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForThree
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.climbStairsTestForFive
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.ClimbStairsTestForTwo
+		Failed Target: example.ClimbingStairs
+
+MutantID: 4
+Fitness: 1.0
+Failed Test Count: 0 / 5
+
+MutantID: 5
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForThree
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.climbStairsTestForFive
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.ClimbStairsTestForTwo
+		Failed Target: example.ClimbingStairs
+
+MutantID: 6
+Fitness: 0.8
+Failed Test Count: 1 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForOne
+		Failed Target: example.ClimbingStairs
+
+MutantID: 7
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForThree
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.climbStairsTestForFive
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.ClimbStairsTestForTwo
+		Failed Target: example.ClimbingStairs
+
+MutantID: 8
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForThree
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.climbStairsTestForFive
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.ClimbStairsTestForTwo
+		Failed Target: example.ClimbingStairs
+
+MutantID: 9
+Fitness: 0.8
+Failed Test Count: 1 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForZero
+		Failed Target: example.ClimbingStairs
+
+MutantID: 10
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForThree
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.climbStairsTestForFive
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.ClimbStairsTestForTwo
+		Failed Target: example.ClimbingStairs
+
+MutantID: 11
+Fitness: 0.8
+Failed Test Count: 1 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForFive
+		Failed Target: example.ClimbingStairs
+
+MutantID: 12
+Fitness: 0.6
+Failed Test Count: 2 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForFive
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.climbStairsTestForZero
+		Failed Target: example.ClimbingStairs
+
+MutantID: 13
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForThree
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.climbStairsTestForFive
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.ClimbStairsTestForTwo
+		Failed Target: example.ClimbingStairs
+
+MutantID: 14
+Fitness: 1.0
+Failed Test Count: 0 / 5
+
+MutantID: 15
+Fitness: 0.8
+Failed Test Count: 1 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForZero
+		Failed Target: example.ClimbingStairs
+
+MutantID: 16
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForThree
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.climbStairsTestForFive
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.ClimbStairsTestForTwo
+		Failed Target: example.ClimbingStairs
+
+MutantID: 17
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForThree
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.climbStairsTestForFive
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.ClimbStairsTestForTwo
+		Failed Target: example.ClimbingStairs
+
+MutantID: 18
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForThree
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.climbStairsTestForFive
+		Failed Target: example.ClimbingStairs
+	Filed Test: example.ClimbStairsTest.ClimbStairsTestForTwo
+		Failed Target: example.ClimbingStairs
+
+MutantID: 19
+Fitness: 0.8
+Failed Test Count: 1 / 5
+	Filed Test: example.ClimbStairsTest.climbStairsTestForZero
+		Failed Target: example.ClimbingStairs
+

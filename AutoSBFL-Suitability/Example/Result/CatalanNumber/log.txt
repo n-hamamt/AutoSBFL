@@ -1,0 +1,185 @@
+MutantID: 1
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 2
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 3
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 4
+MutantID: 5
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 6
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 7
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 8
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 9
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 10
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 11
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 12
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 13
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 14
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 15
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+	Filed Target: NONE (Cannot get line coverage)
+
+MutantID: 16
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 17
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 18
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 19
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 20
+Fitness: 1.0
+Failed Test Count: 0 / 2
+
+MutantID: 21
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 22
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 23
+Fitness: 0.0
+Failed Test Count: 2 / 2
+	Filed Test: example.CatalanNumberTest.testCatalanNumber2
+		Failed Target: example.CatalanNumber
+	Filed Test: example.CatalanNumberTest.testCatalanNumber1
+		Failed Target: example.CatalanNumber
+
+MutantID: 24
+Fitness: 1.0
+Failed Test Count: 0 / 2
+
+MutantID: 25
+Fitness: 1.0
+Failed Test Count: 0 / 2
+
+MutantID: 26
+Fitness: 1.0
+Failed Test Count: 0 / 2
+

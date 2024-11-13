@@ -1,0 +1,340 @@
+MutantID: 1
+Fitness: 0.5
+Failed Test Count: 11 / 22
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower10
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower11
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower01
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower02
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower07
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower08
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower09
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower03
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower04
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower05
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower06
+		Failed Target: example.BinaryExponentiation
+
+MutantID: 2
+Fitness: 0.5
+Failed Test Count: 11 / 22
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower10
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower11
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower01
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower02
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower07
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower08
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower09
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower03
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower04
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower05
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower06
+		Failed Target: example.BinaryExponentiation
+
+MutantID: 3
+Fitness: 0.5
+Failed Test Count: 11 / 22
+	Filed Test: example.BinaryExponentiationTest.testPower05
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower06
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower07
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower08
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower01
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower02
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower03
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower04
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower10
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower11
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower09
+		Failed Target: example.BinaryExponentiation
+
+MutantID: 4
+Fitness: 0.5
+Failed Test Count: 11 / 22
+	Filed Test: example.BinaryExponentiationTest.testPower05
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower06
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower07
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower08
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower01
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower02
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower03
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower04
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower10
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower11
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower09
+		Failed Target: example.BinaryExponentiation
+
+MutantID: 5
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 6
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 7
+Fitness: 0.5
+Failed Test Count: 11 / 22
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower10
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower11
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower01
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower02
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower07
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower08
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower09
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower03
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower04
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower05
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower06
+		Failed Target: example.BinaryExponentiation
+
+MutantID: 8
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 9
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 10
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 11
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 12
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 13
+Fitness: 0.5
+Failed Test Count: 11 / 22
+	Filed Test: example.BinaryExponentiationTest.testPower05
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower06
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower07
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower08
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower01
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower02
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower03
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower04
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower10
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower11
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower09
+		Failed Target: example.BinaryExponentiation
+
+MutantID: 14
+Fitness: 0.5
+Failed Test Count: 11 / 22
+	Filed Test: example.BinaryExponentiationTest.testPower05
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower06
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower07
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower08
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower01
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower02
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower03
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower04
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower10
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower11
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower09
+		Failed Target: example.BinaryExponentiation
+
+MutantID: 15
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 16
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 17
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 18
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 19
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 20
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 21
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 22
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 23
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 24
+Fitness: 0.5
+Failed Test Count: 11 / 22
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower10
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower11
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower01
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower02
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower07
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower08
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower09
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower03
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower04
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower05
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testCalculatePower06
+		Failed Target: example.BinaryExponentiation
+
+MutantID: 25
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 26
+Fitness: 0.5
+Failed Test Count: 11 / 22
+	Filed Test: example.BinaryExponentiationTest.testPower05
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower06
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower07
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower08
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower01
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower02
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower03
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower04
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower10
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower11
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower09
+		Failed Target: example.BinaryExponentiation
+
+MutantID: 27
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 28
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 29
+Fitness: 1.0
+Failed Test Count: 0 / 22
+
+MutantID: 30
+Fitness: 0.5
+Failed Test Count: 11 / 22
+	Filed Test: example.BinaryExponentiationTest.testPower05
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower06
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower07
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower08
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower01
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower02
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower03
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower04
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower10
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower11
+		Failed Target: example.BinaryExponentiation
+	Filed Test: example.BinaryExponentiationTest.testPower09
+		Failed Target: example.BinaryExponentiation
+

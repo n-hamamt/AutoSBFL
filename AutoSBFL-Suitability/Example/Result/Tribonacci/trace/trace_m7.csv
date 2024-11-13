@@ -1,0 +1,13 @@
+[example.TribonacciTest.testKnownValues0, example.TribonacciTest.testKnownValues5, example.TribonacciTest.testKnownValues2, example.TribonacciTest.testKnownValues1, example.TribonacciTest.testKnownValues4, example.TribonacciTest.testKnownValues3]
+src/main/java/example/Tribonacci.java
+00018,o,o,o,o,o,o
+00019,-,o,o,o,o,o
+00021,-,o,o,-,o,o
+00022,-,o,o,-,o,o
+00023,-,o,o,-,o,o
+00025,-,o,o,-,o,o
+00026,-,o,-,-,o,o
+00027,-,o,-,-,o,o
+00028,-,o,-,-,o,o
+00029,-,o,-,-,o,o
+00032,-,o,o,-,o,o

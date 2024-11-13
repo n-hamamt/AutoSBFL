@@ -1,0 +1,13 @@
+[example.BinaryExponentiationTest.testPower05, example.BinaryExponentiationTest.testPower06, example.BinaryExponentiationTest.testPower07, example.BinaryExponentiationTest.testPower08, example.BinaryExponentiationTest.testPower01, example.BinaryExponentiationTest.testPower02, example.BinaryExponentiationTest.testPower03, example.BinaryExponentiationTest.testPower04, example.BinaryExponentiationTest.testCalculatePower10, example.BinaryExponentiationTest.testCalculatePower11, example.BinaryExponentiationTest.testPower10, example.BinaryExponentiationTest.testCalculatePower01, example.BinaryExponentiationTest.testPower11, example.BinaryExponentiationTest.testCalculatePower02, example.BinaryExponentiationTest.testCalculatePower07, example.BinaryExponentiationTest.testCalculatePower08, example.BinaryExponentiationTest.testCalculatePower09, example.BinaryExponentiationTest.testCalculatePower03, example.BinaryExponentiationTest.testCalculatePower04, example.BinaryExponentiationTest.testCalculatePower05, example.BinaryExponentiationTest.testCalculatePower06, example.BinaryExponentiationTest.testPower09]
+src/main/java/example/BinaryExponentiation.java
+00020,-,-,-,-,-,-,-,-,x,x,-,x,-,x,x,x,x,x,x,x,x,-
+00023,-,-,-,-,-,-,-,-,x,x,-,x,-,x,x,x,x,x,x,x,x,-
+00026,-,-,-,-,-,-,-,-,x,x,-,x,-,x,x,x,x,x,x,x,x,-
+00031,o,o,o,o,o,o,o,o,-,-,o,-,o,-,-,-,-,-,-,-,-,o
+00032,o,o,o,o,o,o,o,o,-,-,o,-,o,-,-,-,-,-,-,-,-,o
+00033,o,o,o,o,o,o,o,o,-,-,o,-,o,-,-,-,-,-,-,-,-,o
+00034,o,o,o,o,o,o,o,o,-,-,o,-,o,-,-,-,-,-,-,-,-,o
+00035,o,o,o,o,o,o,o,o,-,-,o,-,o,-,-,-,-,-,-,-,-,o
+00037,o,o,o,o,o,o,o,o,-,-,o,-,o,-,-,-,-,-,-,-,-,o
+00038,o,o,o,o,o,o,o,o,-,-,o,-,o,-,-,-,-,-,-,-,-,o
+00040,o,o,o,o,o,o,o,o,-,-,o,-,o,-,-,-,-,-,-,-,-,o

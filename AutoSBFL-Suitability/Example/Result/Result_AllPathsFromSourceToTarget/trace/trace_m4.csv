@@ -1,0 +1,5 @@
+[example.AllPathsFromSourceToTargetTest.testForFourthcase, example.AllPathsFromSourceToTargetTest.testForFirstCase, example.AllPathsFromSourceToTargetTest.testForSecondCase, example.AllPathsFromSourceToTargetTest.testForThirdCase]
+src/main/java/example/AllPathsFromSourceToTarget.java
+00020,x,x,x,x
+00028,x,x,x,x
+00030,x,x,x,x

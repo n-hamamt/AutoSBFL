@@ -1,0 +1,5 @@
+mutanID,type,line,before,after,flResult,fitness,_mutanID,_bug,_line,_(Pos)rank,_(Pos)FLscore,_(Neg)rank,_(Neg)FLscore,_susValue,_ef,_nf,_ep,_np
+1, ChangeNumericLiteral,4, "1", "0",FAILED,1.0,-1,true,-1,-1,NaN,-1,NaN,NaN,-1,-1,-1,-1,
+2, AddNotOperator,10, "sub(a)", "!sub(a)",CREATED,0.0,2,true,10,1,1.0,3,0.0,1.0,1,0,0,0,
+3, ConditionalsBoundary,4, "1 <= k", "1 < k",CREATED,0.0,3,true,4,1,1.0,3,0.0,1.0,1,0,0,0,
+4, NegateConditionals,4, "1 <= k", "1 > k",CREATED,0.0,4,true,4,1,1.0,3,0.0,1.0,1,0,0,0,

@@ -1,0 +1,12 @@
+FileName,StartLine,EndLine,susValue,ef,nf,ep,np
+src/main/java/example/ClimbingStairs.java,14,14,0.7745966692414834,3,0,2,0,
+src/main/java/example/ClimbingStairs.java,15,15,0.0,0,3,2,0,
+src/main/java/example/ClimbingStairs.java,17,17,1.0,3,0,0,2,
+src/main/java/example/ClimbingStairs.java,18,18,1.0,3,0,0,2,
+src/main/java/example/ClimbingStairs.java,20,20,NaN,0,3,0,2,
+src/main/java/example/ClimbingStairs.java,22,22,1.0,3,0,0,2,
+src/main/java/example/ClimbingStairs.java,23,23,0.8164965809277261,2,1,0,2,
+src/main/java/example/ClimbingStairs.java,24,24,0.8164965809277261,2,1,0,2,
+src/main/java/example/ClimbingStairs.java,22,27,1.0,3,0,0,2,
+src/main/java/example/ClimbingStairs.java,26,26,0.8164965809277261,2,1,0,2,
+src/main/java/example/ClimbingStairs.java,29,29,1.0,3,0,0,2,

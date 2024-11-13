@@ -1,0 +1,9 @@
+[example.TribonacciTest.testKnownValues0, example.TribonacciTest.testKnownValues5, example.TribonacciTest.testKnownValues2, example.TribonacciTest.testKnownValues1, example.TribonacciTest.testKnownValues4, example.TribonacciTest.testKnownValues3]
+src/main/java/example/Tribonacci.java
+00018,x,x,x,x,x,x
+00019,x,-,-,-,-,-
+00021,x,-,-,-,-,-
+00022,x,-,-,-,-,-
+00023,x,-,-,-,-,-
+00025,x,-,-,-,-,-
+00032,x,-,-,-,-,-

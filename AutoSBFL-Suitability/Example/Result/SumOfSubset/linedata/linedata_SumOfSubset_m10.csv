@@ -1,0 +1,4 @@
+mutanID,bug,line,(Pos)rank,(Pos)FLscore,(Neg)rank,(Neg)FLscore,susValue,ef,nf,ep,np
+10,false,8,1,1.0,3,0.0,0.7745966692414834,3,0,2,0,
+10,true,11,1,1.0,3,0.0,0.7745966692414834,3,0,2,0,
+10,false,12,1,1.0,3,0.0,0.7745966692414834,3,0,2,0,

@@ -1,0 +1,220 @@
+MutantID: 1
+Fitness: 0.0
+Failed Test Count: 5 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck1
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.SumOfSubsetTest.basicCheck4
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.SumOfSubsetTest.basicCheck5
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.SumOfSubsetTest.basicCheck2
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck3
+	Filed Target: NONE (Cannot get line coverage)
+
+MutantID: 2
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck4
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck5
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck3
+		Failed Target: example.SumOfSubset
+
+MutantID: 3
+Fitness: 0.0
+Failed Test Count: 5 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck1
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck4
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck5
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck2
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck3
+		Failed Target: example.SumOfSubset
+
+MutantID: 4
+Fitness: 0.0
+Failed Test Count: 5 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck1
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck4
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck5
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck2
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck3
+		Failed Target: example.SumOfSubset
+
+MutantID: 5
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck4
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck5
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck3
+		Failed Target: example.SumOfSubset
+
+MutantID: 6
+Fitness: 0.6
+Failed Test Count: 2 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck5
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck3
+		Failed Target: example.SumOfSubset
+
+MutantID: 7
+Fitness: 1.0
+Failed Test Count: 0 / 5
+
+MutantID: 8
+Fitness: 0.6
+Failed Test Count: 2 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck1
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck2
+		Failed Target: example.SumOfSubset
+
+MutantID: 9
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck4
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck5
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck3
+		Failed Target: example.SumOfSubset
+
+MutantID: 10
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck4
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck5
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck3
+		Failed Target: example.SumOfSubset
+
+MutantID: 11
+Fitness: 0.0
+Failed Test Count: 5 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck1
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck4
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck5
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck2
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck3
+		Failed Target: example.SumOfSubset
+
+MutantID: 12
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck4
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck5
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck3
+		Failed Target: example.SumOfSubset
+
+MutantID: 13
+Fitness: 0.6
+Failed Test Count: 2 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck1
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck2
+		Failed Target: example.SumOfSubset
+
+MutantID: 14
+Fitness: 0.2
+Failed Test Count: 4 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck1
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck4
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck5
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck2
+		Failed Target: example.SumOfSubset
+
+MutantID: 15
+Fitness: 0.6
+Failed Test Count: 2 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck1
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck2
+		Failed Target: example.SumOfSubset
+
+MutantID: 16
+Fitness: 1.0
+Failed Test Count: 0 / 5
+
+MutantID: 17
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck4
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck5
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck3
+		Failed Target: example.SumOfSubset
+
+MutantID: 18
+Fitness: 0.6
+Failed Test Count: 2 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck1
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck2
+		Failed Target: example.SumOfSubset
+
+MutantID: 19
+Fitness: 0.6
+Failed Test Count: 2 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck5
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck3
+		Failed Target: example.SumOfSubset
+
+MutantID: 20
+Fitness: 1.0
+Failed Test Count: 0 / 5
+
+MutantID: 21
+Fitness: 0.6
+Failed Test Count: 2 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck1
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck2
+		Failed Target: example.SumOfSubset
+
+MutantID: 22
+Fitness: 0.0
+Failed Test Count: 5 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck1
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck4
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck5
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck2
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck3
+		Failed Target: example.SumOfSubset
+
+MutantID: 23
+Fitness: 0.4
+Failed Test Count: 3 / 5
+	Filed Test: example.SumOfSubsetTest.basicCheck4
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck5
+		Failed Target: example.SumOfSubset
+	Filed Test: example.SumOfSubsetTest.basicCheck3
+		Failed Target: example.SumOfSubset
+

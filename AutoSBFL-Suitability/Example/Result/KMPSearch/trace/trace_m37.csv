@@ -1,0 +1,22 @@
+[example.KMPSearchTest.kmpSearchTestFront, example.KMPSearchTest.kmpSearchTest4, example.KMPSearchTest.kmpSearchTestNotFound, example.KMPSearchTest.kmpSearchTestLast, example.KMPSearchTest.kmpSearchTestMiddle]
+src/main/java/example/KMPSearch.java
+00006,x,o,x,x,x
+00007,x,o,x,x,x
+00011,x,o,x,x,x
+00012,x,o,x,x,x
+00016,x,o,x,x,x
+00018,x,o,x,x,x
+00019,x,o,x,x,x
+00042,x,o,x,x,x
+00047,x,o,x,x,x
+00048,x,o,x,x,x
+00049,x,o,x,x,x
+00052,x,o,x,x,x
+00053,x,o,x,x,x
+00054,x,o,x,x,x
+00055,x,o,x,x,x
+00056,x,o,x,x,x
+00061,-,-,-,x,-
+00062,-,-,-,x,-
+00066,-,-,-,x,-
+00067,-,-,-,x,-

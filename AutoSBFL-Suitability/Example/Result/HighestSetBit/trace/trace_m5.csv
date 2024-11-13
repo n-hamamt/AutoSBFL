@@ -1,0 +1,9 @@
+[example.HighestSetBitTest.testHighestSetBit17, example.HighestSetBitTest.testHighestSetBit18, example.HighestSetBitTest.testHighestSetBit15, example.HighestSetBitTest.testHighestSetBit16, example.HighestSetBitTest.testHighestSetBit19, example.HighestSetBitTest.testHighestSetBit9, example.HighestSetBitTest.testHighestSetBit8, example.HighestSetBitTest.testHighestSetBit5, example.HighestSetBitTest.testHighestSetBit4, example.HighestSetBitTest.testHighestSetBit7, example.HighestSetBitTest.testHighestSetBit6, example.HighestSetBitTest.testHighestSetBit1, example.HighestSetBitTest.testHighestSetBit20, example.HighestSetBitTest.testHighestSetBit10, example.HighestSetBitTest.testHighestSetBit3, example.HighestSetBitTest.testHighestSetBit2, example.HighestSetBitTest.testHighestSetBit13, example.HighestSetBitTest.testHighestSetBit14, example.HighestSetBitTest.testHighestSetBit11, example.HighestSetBitTest.testHighestSetBit12]
+src/main/java/example/HighestSetBit.java
+00016,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+00017,-,-,-,-,-,-,-,-,-,-,-,-,x,-,-,-,-,-,-,-
+00020,x,x,x,x,x,x,x,x,x,x,x,x,-,x,x,x,x,x,x,x
+00021,x,x,x,x,x,x,x,x,x,x,x,-,-,x,x,x,x,x,x,x
+00024,-,-,-,-,-,-,-,-,-,-,-,x,-,-,-,-,-,-,-,-
+00025,-,-,-,-,-,-,-,-,-,-,-,x,-,-,-,-,-,-,-,-
+00030,-,-,-,-,-,-,-,-,-,-,-,x,-,-,-,-,-,-,-,-

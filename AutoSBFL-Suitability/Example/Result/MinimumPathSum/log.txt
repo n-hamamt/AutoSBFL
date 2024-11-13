@@ -1,0 +1,444 @@
+MutantID: 1
+Fitness: 0.14285714285714285
+Failed Test Count: 6 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 2
+Fitness: 0.14285714285714285
+Failed Test Count: 6 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 3
+Fitness: 0.42857142857142855
+Failed Test Count: 4 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 4
+Fitness: 0.42857142857142855
+Failed Test Count: 4 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 5
+Fitness: 0.42857142857142855
+Failed Test Count: 4 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 6
+Fitness: 0.42857142857142855
+Failed Test Count: 4 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 7
+Fitness: 0.5714285714285714
+Failed Test Count: 3 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 8
+Fitness: 0.14285714285714285
+Failed Test Count: 6 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+	Filed Target: NONE (Cannot get line coverage)
+
+MutantID: 9
+Fitness: 0.14285714285714285
+Failed Test Count: 6 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 10
+Fitness: 0.5714285714285714
+Failed Test Count: 3 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithEmptyGrid
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+	Filed Target: NONE (Cannot get line coverage)
+
+MutantID: 11
+Fitness: 0.5714285714285714
+Failed Test Count: 3 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithEmptyGrid
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 12
+Fitness: 0.14285714285714285
+Failed Test Count: 6 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+	Filed Target: NONE (Cannot get line coverage)
+
+MutantID: 13
+Fitness: 0.2857142857142857
+Failed Test Count: 5 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 14
+Fitness: 0.14285714285714285
+Failed Test Count: 6 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+	Filed Target: NONE (Cannot get line coverage)
+
+MutantID: 15
+Fitness: 0.14285714285714285
+Failed Test Count: 6 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 16
+Fitness: 0.42857142857142855
+Failed Test Count: 4 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 17
+Fitness: 0.5714285714285714
+Failed Test Count: 3 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 18
+Fitness: 0.14285714285714285
+Failed Test Count: 6 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 19
+Fitness: 0.5714285714285714
+Failed Test Count: 3 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 20
+Fitness: 0.7142857142857143
+Failed Test Count: 2 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 21
+Fitness: 0.42857142857142855
+Failed Test Count: 4 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 22
+Fitness: 0.8571428571428571
+Failed Test Count: 1 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 23
+Fitness: 0.14285714285714285
+Failed Test Count: 6 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 24
+Fitness: 0.0
+Failed Test Count: 7 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithEmptyGrid
+	Filed Target: NONE (Cannot get line coverage)
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 25
+Fitness: 0.14285714285714285
+Failed Test Count: 6 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 26
+Fitness: 0.14285714285714285
+Failed Test Count: 6 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 27
+Fitness: 0.42857142857142855
+Failed Test Count: 4 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 28
+Fitness: 0.42857142857142855
+Failed Test Count: 4 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 29
+Fitness: 0.14285714285714285
+Failed Test Count: 6 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 30
+Fitness: 0.42857142857142855
+Failed Test Count: 4 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 31
+Fitness: 0.42857142857142855
+Failed Test Count: 4 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 32
+Fitness: 0.5714285714285714
+Failed Test Count: 3 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 33
+Fitness: 0.5714285714285714
+Failed Test Count: 3 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+
+MutantID: 34
+Fitness: 0.14285714285714285
+Failed Test Count: 6 / 7
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithNegativeNumberGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumGridOneRowGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithRegularGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneRowOneColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithDiffRowAndColumnGrid
+		Failed Target: example.MinimumPathSum
+	Filed Test: example.MinimumPathSumTest.testMinimumPathSumWithOneColumnGrid
+		Failed Target: example.MinimumPathSum
+

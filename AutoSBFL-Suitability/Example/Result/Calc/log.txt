@@ -1,0 +1,266 @@
+MutantID: 1
+Fitness: 0.26666666666666666
+Failed Test Count: 11 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.diff02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.diff03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum05
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum04
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod02
+		Failed Target: example.Calc
+
+MutantID: 2
+Fitness: 0.6666666666666666
+Failed Test Count: 5 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum05
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum04
+		Failed Target: example.Calc
+
+MutantID: 3
+Fitness: 0.8
+Failed Test Count: 3 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.diff02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.diff03
+		Failed Target: example.Calc
+
+MutantID: 4
+Fitness: 0.8
+Failed Test Count: 3 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod02
+		Failed Target: example.Calc
+
+MutantID: 5
+Fitness: 0.8
+Failed Test Count: 3 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot03
+		Failed Target: example.Calc
+
+MutantID: 6
+Fitness: 0.6666666666666666
+Failed Test Count: 5 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum05
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum04
+		Failed Target: example.Calc
+
+MutantID: 7
+Fitness: 0.8
+Failed Test Count: 3 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.diff02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.diff03
+		Failed Target: example.Calc
+
+MutantID: 8
+Fitness: 0.8
+Failed Test Count: 3 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod02
+		Failed Target: example.Calc
+
+MutantID: 9
+Fitness: 0.8
+Failed Test Count: 3 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot03
+		Failed Target: example.Calc
+
+MutantID: 10
+Fitness: 0.13333333333333333
+Failed Test Count: 13 / 15
+	Filed Test: example.CalcTest.quot01
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.diff02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.diff03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum05
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum04
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod01
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod02
+		Failed Target: example.Calc
+
+MutantID: 11
+Fitness: 0.4
+Failed Test Count: 9 / 15
+	Filed Test: example.CalcTest.quot01
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.diff02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.diff03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod01
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod02
+		Failed Target: example.Calc
+
+MutantID: 12
+Fitness: 0.6666666666666666
+Failed Test Count: 5 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod02
+		Failed Target: example.Calc
+
+MutantID: 13
+Fitness: 0.8
+Failed Test Count: 3 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot03
+		Failed Target: example.Calc
+
+MutantID: 14
+Fitness: 0.7333333333333333
+Failed Test Count: 4 / 15
+	Filed Test: example.CalcTest.quot01
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot03
+		Failed Target: example.Calc
+
+MutantID: 15
+Fitness: 0.6666666666666666
+Failed Test Count: 5 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum05
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.sum04
+		Failed Target: example.Calc
+
+MutantID: 16
+Fitness: 0.8
+Failed Test Count: 3 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.diff02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.diff03
+		Failed Target: example.Calc
+
+MutantID: 17
+Fitness: 0.7333333333333333
+Failed Test Count: 4 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod01
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod03
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.prod02
+		Failed Target: example.Calc
+
+MutantID: 18
+Fitness: 0.8
+Failed Test Count: 3 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot02
+		Failed Target: example.Calc
+	Filed Test: example.CalcTest.quot03
+		Failed Target: example.Calc
+
+MutantID: 19
+Fitness: 0.9333333333333333
+Failed Test Count: 1 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+
+MutantID: 20
+Fitness: 0.9333333333333333
+Failed Test Count: 1 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+
+MutantID: 21
+Fitness: 0.9333333333333333
+Failed Test Count: 1 / 15
+	Filed Test: example.CalcTest.quotException
+		Failed Target: example.Calc
+

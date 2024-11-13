@@ -1,0 +1,22 @@
+MutantID: 1
+Fitness: 1.0
+Failed Test Count: 0 / 1
+
+MutantID: 2
+Fitness: 0.0
+Failed Test Count: 1 / 1
+	Filed Test: example.HamamtTest.tc1
+		Failed Target: example.Hamamt
+
+MutantID: 3
+Fitness: 0.0
+Failed Test Count: 1 / 1
+	Filed Test: example.HamamtTest.tc1
+		Failed Target: example.Hamamt
+
+MutantID: 4
+Fitness: 0.0
+Failed Test Count: 1 / 1
+	Filed Test: example.HamamtTest.tc1
+		Failed Target: example.Hamamt
+
